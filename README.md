@@ -19,7 +19,7 @@ Este é um programa Java de console que permite calcular e imprimir taxas de bol
 
 ## Capturas de Tela
 
-![Captura de Tela](https://cdn.uploaddeimagens.com.br/images/000/461/390/original/-iXFE-w.png)
+![Captura de Tela]([https://cdn.uploaddeimagens.com.br/images/000/461/390/original/-iXFE-w.png](https://lens.google.com/search?ep=gisbubb&hl=pt-BR&re=df&p=AUM6UZBTbOcPKRbwbutl0GK0zZ3kVaCDk17kedUo5mubNKf0aq37Uncnq6zMM4ImTrY0pWD86UV4mlBQVBUwWtJfcKyi-PlKzFOd0CN_fSb1j3yDtAwsIkRpe8_s64fp1b9UA3fKUdhMGv_qcLNqtzadZy-0UHr1wgJLOInwE8stxBQFHGFAr452X3hUTBXpkKrO3xjU1gZLrzoE_WHyTexz#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKR0l5T0dabE1tSXlMVFprWkRrdE5ESmlNeTA0WTJVMkxUUTVZVEZoT0dJd01EWmxOaElmU1RaNGFHUm5PRVkwZVdOVWMwZEZNRGhCY0VaUVRpMU1lREpmZUc5NFp3PT0iXQ==))
 ![Captura de Tela](https://cdn.uploaddeimagens.com.br/images/000/461/390/original/OQ1KXf8.png)
 
 
