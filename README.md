@@ -1,6 +1,6 @@
 # Calculadora de Taxas de Boleto
 
-Este é um programa Java de console que permite calcular e imprimir taxas de boletos com base na escolha do cliente (NUBANK ou BANCO DO BRASIL).
+Este é um programa Java de console que permite calcular e imprimir taxas de boletos com base na escolha do cliente (CARTÃO DE CREDITO).
 
 ## Instruções de Instalação
 
@@ -12,7 +12,7 @@ Este é um programa Java de console que permite calcular e imprimir taxas de bol
 
 ## Exemplo de Uso
 
-1. Escolha o cartão desejado (NUBANK ou BANCO DO BRASIL).
+1. Escolha o cartão desejado.
 2. Digite o valor do boleto.
 3. Digite a quantidade de dias de atraso.
 4. O programa calculará as taxas e imprimirá um boleto com os valores.
