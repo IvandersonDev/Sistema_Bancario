@@ -30,7 +30,9 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 ## Linguagem de Programação
 
 Este projeto foi desenvolvido utilizando a linguagem de programação Java.
+
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
 
 ## Contato
 
