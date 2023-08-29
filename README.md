@@ -26,7 +26,11 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 3. Faça suas alterações e faça commit: `git commit -m 'Adiciona recurso'`.
 4. Envie suas alterações para o fork: `git push origin sua-feature`.
 5. Abra um Pull Request neste repositório.
+  
+## Linguagem de Programação
 
+Este projeto foi desenvolvido utilizando a linguagem de programação Java.
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
 ## Contato
 
